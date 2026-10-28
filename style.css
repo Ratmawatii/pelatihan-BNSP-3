@@ -1,0 +1,44 @@
+h1 {
+  color: #099fc1;
+  font-size: 30px;
+  text-align: center;
+}
+
+h2 {
+  color: #1f05c6;
+  font-size: 24px;
+  text-align: center;
+}
+button {
+  background-color: #099fc1;
+  color: white;
+  padding: 10px 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.judul {
+  color: #024c5c;
+}
+
+#btn-save {
+  background-color: #05c672;
+  color: white;
+}
+
+button:hover {
+  background-color: #17eee7;
+}
+
+.navbar {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+.navbar nav {
+    display: flex;
+    gap: 20px;
+}
