@@ -23,7 +23,7 @@ button {
 
 #btn-save {
   background-color: #05c672;
-  color: white;
+  color: rgb(255, 252, 252);
 }
 
 button:hover {
